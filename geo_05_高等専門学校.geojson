@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "geo_05_高等専門学校",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::6668" } },
+"features": [
+{ "type": "Feature", "properties": { "P29_001": "05201", "P29_002": "G105110101166", "P29_003": "16005", "P29_004": "秋田工業高等専門学校", "P29_005": "秋田県秋田市飯島文京町1-1", "P29_006": "1", "P29_007": "0", "P29_008": "00", "P29_009": null }, "geometry": { "type": "Point", "coordinates": [ 140.080128540749456, 39.77179968880278 ] } }
+]
+}
